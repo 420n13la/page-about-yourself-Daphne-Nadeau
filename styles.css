@@ -8,7 +8,6 @@ body {
 
 h1 {
   color: red;
-  border: 5px red;
   text-align: center;
   font-family: 'Manjari', sans-serif;
 }
@@ -16,6 +15,7 @@ h1 {
 h2 {
   color: blue;
   text-align: center;
+  border: 5px solid red;
 }
 
 p {
