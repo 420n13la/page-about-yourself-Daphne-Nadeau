@@ -21,9 +21,11 @@ h2 {
 
 p {
   font-size: 20px;
+	text-align: center;
 }
 
 img {
 	width: 150px;
+	text-align: center;
 }
 </style>
