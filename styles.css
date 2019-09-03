@@ -10,12 +10,13 @@ h1 {
   color: red;
   text-align: center;
   font-family: 'Manjari', sans-serif;
-	border: 5px solid red
+	border: 5px solid red;
 }
 
 h2 {
   color: blue;
   text-align: center;
+	border: 5px solid red;
 }
 
 p {
@@ -23,6 +24,6 @@ p {
 }
 
 img {
-	width: 100px;
+	width: 150px;
 }
 </style>
